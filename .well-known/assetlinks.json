@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.seyo.app",
+    "sha256_cert_fingerprints":
+    ["26:2E:50:4C:1B:F8:AD:A4:95:10:30:BB:23:AB:62:3F:A1:BD:DE:69:03:0A:84:ED:E6:A0:F3:2A:C4:DE:76:4E"]
+  }
+}]
